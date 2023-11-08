@@ -1,7 +1,6 @@
-# My Dygma Defy layers
+#https://github.com/tarbari/defy_layers My Dygma Defy layers
 
 This repo explains my approach to using layers in my Dygma Defy keyboard.  
-Importing layers.json to your keyboard might require some tweaking, but it should work on Bazecor version 1.0.0 and firmware version 1.0.9beta
 
 ---
 
