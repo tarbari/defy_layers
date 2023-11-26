@@ -1,4 +1,4 @@
-#https://github.com/tarbari/defy_layers My Dygma Defy layers
+# My Dygma Defy layers
 
 This repo explains my approach to using layers in my Dygma Defy keyboard.  
 
