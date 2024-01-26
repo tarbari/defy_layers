@@ -1,6 +1,6 @@
 # My Dygma Defy layers
 
-This repo explains my approach to using layers in my Dygma Defy keyboard.  
+This repo explains my approach to using layers in my Dygma Defy keyboard.
 
 ---
 
@@ -14,7 +14,6 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
   - Colemak layout with added scandinavian letters
   - Utilizes home row modifiers (GACS order)
     - For more information on home row mods refer to [this page](https://precondition.github.io/home-row-mods)
-  
 - Left side
   - Capslock is replaced with escape for easier access
   - Escape is replaced with my shortcut to accept code completion in my IDEs
@@ -22,15 +21,18 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
   - Most of my layer changing is on the left hand thumb cluster
     - Shift 2 -> Symbols
     - Lock 3 -> Navigation
-    - Lock 5 -> Modifier + F-keys layer
     - Shift 6 -> IDE shortcuts
   - Inner column utilized for undo, copy, cut, paste
+    - Super Copy has tap -> `ctrl + c` and 2tap -> `ctrl + shift + c`
+    - Super Paste has tap -> `ctrl + v` and 2tap -> `ctrl + shift + v`
 - Right side
   - Backspace replaced with windows snipping tool shortcut
   - Couple of layer changing buttons
     - Shift 6 -> IDE shortcuts
     - Lock 7 -> Gaming layer
     - Lock 8 -> Numpad
+  - Macro Next_buf inputs `[b`, used in neovim
+  - Macro Prev_buf inputs `]b`, used in neovim
 
 ---
 
@@ -39,14 +41,17 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
 ![layer_2](./img/l2.png)
 
 - Symbols layer with F-keys
+
   - Contains all symbols available in the finnish keymap
     - The point is to never have to use top row numbers for symbols
 
 - Left side
   - Tab replaced with Alt+F4
   - Capslock is there if it is ever needed
+  - Inner column has movement keys for windows virtual desktops
 - Right side
   - Backspace and delete have ctrl added as a modifier for easier whole word deletion
+  - Inner column has zoom in and out keys
 
 ---
 
@@ -76,11 +81,13 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
 
 ![layer_5](./img/l5.png)
 
+- This layer is not in use, and no other layer has a key to move here
 - Mods + F-keys for when they are needed in combination
 
 ---
 
 ### Layer 6 (IDE shortcuts)
+
 ![layer_6](./img/l6.png)
 
 - JetBrains IDE shortcuts
@@ -88,9 +95,11 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
 ---
 
 ### Layer 7 (Gaming)
+
 ![layer_7](./img/l7.png)
 
 - QWERTY Gaming layer
+
   - Added various common keys to left side thumb cluster to make them easier to access
   - Inner column for more number keys
   - Space is shifted one spot to the left because hand rests on WASD instead of home row
@@ -102,7 +111,7 @@ This repo explains my approach to using layers in my Dygma Defy keyboard.
 ---
 
 ### Layer 8 (Numpad)
+
 ![layer_8](./img/l8.png)
 
 - A bit of color added to help learning the layer
-
