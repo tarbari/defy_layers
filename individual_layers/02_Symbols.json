@@ -11,47 +11,47 @@
       }
     ]
   },
-  "language": "finnish",
+  "language": "fi-FI",
   "layerNames": [
     {
       "id": 0,
-      "name": "L1"
+      "name": "Base"
     },
     {
       "id": 1,
-      "name": "L2"
+      "name": "Symbols"
     },
     {
       "id": 2,
-      "name": "L3"
+      "name": "Navigation"
     },
     {
       "id": 3,
-      "name": "L4"
+      "name": "Mouse"
     },
     {
       "id": 4,
-      "name": "L5"
+      "name": "F-keys"
     },
     {
       "id": 5,
-      "name": "L6"
+      "name": "JetBrains"
     },
     {
       "id": 6,
-      "name": "L7"
+      "name": "Gaming"
     },
     {
       "id": 7,
-      "name": "L8"
+      "name": "Numpad"
     },
     {
       "id": 8,
-      "name": "L9"
+      "name": "Transparent"
     },
     {
       "id": 9,
-      "name": "L10"
+      "name": "No Key"
     }
   ],
   "keymap": [
@@ -152,10 +152,9 @@
       "label": "&"
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 4431,
+      "label": "→",
+      "extraLabel": "C+O+"
     },
     {
       "keyCode": 65535,
@@ -224,10 +223,9 @@
       "label": "\""
     },
     {
-      "keyCode": 0,
-      "label": "KEY",
-      "extraLabel": "NO",
-      "verbose": "Disabled"
+      "keyCode": 4432,
+      "label": "←",
+      "extraLabel": "C+O+"
     },
     {
       "keyCode": 65535,
@@ -451,28 +449,28 @@
     3,
     3,
     3,
-    12,
+    2,
     3,
     3,
     3,
     3,
     3,
     3,
-    12,
+    2,
     3,
     3,
     3,
     3,
     3,
     3,
-    12,
-    12,
-    12,
     3,
-    12,
-    12,
-    12,
-    12,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
     3,
     3,
     3,
@@ -500,14 +498,8 @@
     3,
     3,
     3,
-    12,
     3,
     3,
-    12,
-    12,
-    12,
-    12,
-    12,
     3,
     3,
     3,
@@ -615,7 +607,13 @@
     3,
     3,
     3,
-    15
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    4
   ],
   "palette": [
     {
