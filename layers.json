@@ -1,7 +1,7 @@
 {
-  "neuronID": "9398f72b7b522b12",
+  "neuronID": "88f3addc0e7e662",
   "neuron": {
-    "id": "9398f72b7b522b12",
+    "id": "88f3addc0e7e662",
     "name": "NoName",
     "layers": [
       {
@@ -160,7 +160,7 @@
     }
   },
   "versions": {
-    "bazecor": "v1.2.6-rc.4"
+    "bazecor": "v1.2.6-beta"
   },
   "backup": [
     {
@@ -253,7 +253,7 @@
     },
     {
       "command": "mouse.speed",
-      "data": "124"
+      "data": "30"
     },
     {
       "command": "mouse.speedDelay",
@@ -261,7 +261,7 @@
     },
     {
       "command": "mouse.accelSpeed",
-      "data": "247"
+      "data": "40"
     },
     {
       "command": "mouse.accelDelay",
@@ -277,23 +277,23 @@
     },
     {
       "command": "mouse.speedLimit",
-      "data": "248"
+      "data": "180"
     },
     {
       "command": "wireless.battery.left.level",
-      "data": "1"
+      "data": "60"
     },
     {
       "command": "wireless.battery.right.level",
-      "data": "1"
+      "data": "60"
     },
     {
       "command": "wireless.battery.left.status",
-      "data": "2"
+      "data": "0"
     },
     {
       "command": "wireless.battery.right.status",
-      "data": "2"
+      "data": "0"
     },
     {
       "command": "wireless.battery.savingMode",
